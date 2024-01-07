@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+nolan:
+  name: Nolan Simpson
+  title: Maintainer of ClassLive
+  url: https://github.com/nmsderp
+  image_url: https://avatars.githubusercontent.com/u/130254323?v=4
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+ba4x:
+  name: BA4X
+  title: Developer of ClassLive
+  url: https://github.com/thepython555
+  image_url: https://avatars.githubusercontent.com/u/144301348?v=4
