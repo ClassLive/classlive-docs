@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Free and Open Source',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        ClassLive is completly free! The code is also opensource which means anybody can contribute or make your own things out of ClassLive!.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Very Customizable',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Create your own question sets or use a pre-built one.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Always New Stuff',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        ClassLive is constantly updated, with new features, gameshows and much more!
       </>
     ),
   },
